@@ -23,7 +23,7 @@ export default function CourtsSingaporeDemo() {
     {
       name: 'Gaming Laptop',
       price: 'SGD 1,999',
-      image: 'public/images/laptop.avif',
+      image: '/public/images/laptop.avif',
     },
   ];
 
