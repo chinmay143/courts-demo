@@ -23,7 +23,7 @@ export default function CourtsSingaporeDemo() {
     {
       name: 'Gaming Laptop',
       price: 'SGD 1,999',
-      image: 'images/laptop.avif',
+      image: '/Images/laptop.avif',
     },
   ];
 
@@ -338,7 +338,7 @@ export default function CourtsSingaporeDemo() {
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex items-center gap-3">
             <img
-              src="/images/courts-logo.png"
+              src="/Images/courts-logo.png"
               alt="COURTS"
               className="h-10 object-contain"
             />
