@@ -43,7 +43,7 @@ export default function CourtsSingaporeDemo() {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <img
-              src="/images/courts-logo.png"
+              src="/Images/courts-logo.png"
               alt="COURTS"
               className="h-12 object-contain"
             />
